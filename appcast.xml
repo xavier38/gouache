@@ -5,6 +5,22 @@
     <link>https://xavier38.github.io/gouache/appcast.xml</link>
     <language>fr</language>
     <item>
+      <title>Gouache 0.2.1</title>
+      <pubDate>Thu, 05 Nov 2026 07:29:16 +0100</pubDate>
+      <sparkle:version>202611050728</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/gouache/notes/0.2.1.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/gouache/notes/0.2.1.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/gouache/notes/0.2.1.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/gouache/notes/0.2.1.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/gouache/notes/0.2.1.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/gouache/notes/0.2.1.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/gouache/notes/0.2.1.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/gouache/releases/download/v0.2.1/Gouache.zip"
+                 type="application/octet-stream" sparkle:edSignature="Ba0IeiGRG/vmp1p1jiFkFMaTTA+8I7v7DuJ+duRopDkyXfhzpj2zy6CLdkh9MlZYaj0Bv0/deMlPYn0JsehoDQ==" length="2995806"/>
+    </item>
+    <item>
       <title>Gouache 0.2.0</title>
       <pubDate>Thu, 05 Nov 2026 07:22:09 +0100</pubDate>
       <sparkle:version>202611050719</sparkle:version>
