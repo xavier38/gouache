@@ -1,51 +1,43 @@
-<p align="center"><img src="icon.png" width="128" alt="Gouache"></p>
+<p align="center"><img src="icon.png" width="128" alt="Atelier"></p>
 
-<h1 align="center">Gouache</h1>
+<h1 align="center">Atelier</h1>
 
-<p align="center"><b>Un éditeur d'images complet pour Mac : calques, effets, outils de dessin. Gratuit, en 7 langues.</b><br>
-A full-featured image editor for the Mac: layers, effects, drawing tools. Free, in 7 languages.</p>
+<p align="center"><b>Vos photos méritent un atelier.</b> · <b>Your photos deserve a studio.</b><br>
+Sur votre Mac. Sans compte, sans abonnement, sans nuage. · On your Mac. No account, no subscription, no cloud.</p>
 
 <p align="center">
-<a href="https://github.com/xavier38/gouache/releases/latest/download/Gouache.zip"><b>⬇︎ Télécharger / Download Gouache.zip</b></a> ·
+<a href="https://github.com/xavier38/gouache/releases/latest/download/Atelier.zip"><b>⬇︎ Télécharger / Download Atelier.zip</b></a> ·
 <a href="https://xavier38.github.io/gouache/">Site</a> ·
 <a href="https://xavier38.github.io/gouache/installation.html">Installation</a> ·
 <a href="https://xavier38.github.io/gouache/confidentialite.html">Confidentialité / Privacy</a>
 </p>
 
-<p align="center"><img src="promo-fr.jpg" width="720" alt="Gouache"></p>
+<p align="center"><img src="promo-fr.jpg" width="720" alt="Atelier"></p>
 
-Mac Apple Silicon, macOS 14 ou plus récent · Apple Silicon Mac, macOS 14 or later
+Gratuit · macOS 14 Sonoma ou plus récent · Mac Apple Silicon — Free · macOS 14 Sonoma or later · Apple Silicon Mac
 
-## 🇫🇷 Ce que fait Gouache
+## 🇫🇷 En deux mots
 
-| | |
-|---|---|
-| 🖌️ **19 outils** | Pinceau (dureté, pression de la tablette), crayon, gomme, tampon de duplication, recolorer, pot de peinture, dégradés (linéaire, réfléchi, losange, radial, conique, spirales), pipette, texte (gras, italique, souligné, barré, alignement), ligne et courbe (spline, Bézier, flèches, pointillés), zoom, main. |
-| 🔷 **46 formes** | De base, polygones et étoiles, flèches, bulles, symboles ; déplacer, redimensionner et tourner après le tracé ; contour, remplissage ou les deux. |
-| ✂️ **Sélections** | Rectangle, ellipse (rapport ou taille fixe, poignées), lasso, baguette magique (zone ou toute l'image, tolérance) ; ajouter, retirer, intersection ; déplacer, agrandir et tourner les pixels. |
-| 🎨 **Couleurs** | Roue chromatique, TSV, RVB, hexadécimal, transparence, couleurs récentes, palette de 96 couleurs (charger, enregistrer). Motifs de remplissage et mode de fusion pour chaque outil. |
-| 📚 **Calques** | 14 modes de fusion, opacité, fusionner, aplatir, importer, retourner, rotation et zoom. |
-| ↩️ **Historique** | Cliquez une étape pour y revenir. |
-| 🎚️ **Réglages** | Auto-niveau, noir et blanc, luminosité/contraste, courbes, teinte/saturation, inverser, niveaux, postériser, sépia, vibrance, température, exposition, seuil. |
-| ✨ **50 effets** | Artistiques, flous, déformations, bruit, objet (ombre portée, contour, adoucir, aligner), couleur (quantification, tramage), photo, rendu (nuages, fractales, Voronoï), esthétique. Aperçu en direct, ⌘F pour répéter. |
-| 🖼️ **Image** | Redimensionner (5 méthodes, pourcentage, résolution), taille du canevas, rogner, retourner, faire pivoter. Règles et unités (pixels, pouces, cm). |
-| 📁 **Fichiers** | Onglets d'images ; PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000 ; lecture WebP, JPEG XL, PSD, RAW ; format .gouache avec calques. Imprimer, scanner. |
+Atelier (anciennement Gouache) retouche vos photos en deux modes, dans une seule app et un seul fichier :
 
-## 🇬🇧 What Gouache does
+- **Essentiel** : cliquez sur ce qui vous gêne (ciel, personne, arrière-plan, objet). Atelier a repéré les zones de la photo sur votre Mac et propose trois variantes calculées sur votre image, puis un curseur. Suggestions (penchée, un peu sombre, sujet détecté), journal « Ce que j'ai fait » où chaque ligne se masque, se modifie ou se retire, Espace pour voir l'original, Revenir à l'original toujours possible.
+- **Studio** : l'éditeur complet. 50+ effets, 19+ outils (pinceau, correcteur, pièce, tampon, formes, texte, recadrage, perspective, fluidité…), calques de réglage, masques, filtres modifiables, styles, groupes, écrêtage, 14 modes de fusion, histogramme, RAW.
 
-| | |
-|---|---|
-| 🖌️ **19 tools** | Paintbrush (hardness, tablet pressure), pencil, eraser, clone stamp, recolor, paint bucket, gradients (linear, reflected, diamond, radial, conical, spirals), colour picker, text (bold, italic, underline, strikethrough, alignment), line and curve (spline, Bézier, arrows, dashes), zoom, pan. |
-| 🔷 **46 shapes** | Basic, polygons and stars, arrows, callouts, symbols; move, resize and rotate after drawing; outline, fill or both. |
-| ✂️ **Selections** | Rectangle, ellipse (fixed ratio or size, handles), lasso, magic wand (contiguous or global, tolerance); add, subtract, intersect; move, scale and rotate pixels. |
-| 🎨 **Colours** | Colour wheel, HSV, RGB, hex, alpha, recent colours, 96-colour palette (load, save). Fill patterns and a blend mode for every tool. |
-| 📚 **Layers** | 14 blend modes, opacity, merge, flatten, import, flip, rotate/zoom. |
-| ↩️ **History** | Click a step to go back to it. |
-| 🎚️ **Adjustments** | Auto-level, black and white, brightness/contrast, curves, hue/saturation, invert, levels, posterize, sepia, vibrance, temperature, exposure, threshold. |
-| ✨ **50 effects** | Artistic, blurs, distort, noise, object (drop shadow, outline, feather, align), colour (quantize, dithering), photo, render (clouds, fractals, Voronoi), stylize. Live preview, ⌘F to repeat. |
-| 🖼️ **Image** | Resize (5 methods, percentage, resolution), canvas size, crop, flip, rotate. Rulers and units (pixels, inches, cm). |
-| 📁 **Files** | Image tabs; PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000; reads WebP, JPEG XL, PSD, RAW; .gouache format keeps layers. Print, scan. |
+Tout est **non destructif** : ce que l'Essentiel fait apparaît en couches dans le Studio, et le fichier `.gouache` garde la photo d'origine, le journal et les calques. Export par destination (message, en ligne, impression, qualité maximale) ou à la main : PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000 ; lecture WebP, JPEG XL, PSD, RAW.
+
+**Vie privée** : tout se passe sur l'appareil. Aucune photo ne quitte votre Mac, aucun compte, aucune statistique, aucune publicité. Mises à jour automatiques (une vérification par jour, désactivable). Mode clair et sombre, 7 langues.
+
+## 🇬🇧 In short
+
+Atelier (formerly Gouache) edits your photos in two modes, in one app and one file:
+
+- **Essentiel**: click what bothers you (sky, person, background, object). Atelier has found the areas of the photo on your Mac and offers three variants computed on your picture, then a slider. Suggestions (tilted, a bit dark, subject detected), a “What I did” list where each line can be hidden, changed or removed, Space to see the original, Back to original always possible.
+- **Studio**: the full editor. 50+ effects, 19+ tools (brush, healing, patch, clone, shapes, text, crop, perspective, liquify…), adjustment layers, masks, editable filters, styles, groups, clipping, 14 blend modes, histogram, RAW.
+
+Everything is **non-destructive**: what Essentiel does shows up as layers in the Studio, and the `.gouache` file keeps the original photo, the list and the layers. Export by destination (message, online, print, maximum quality) or by hand: PNG, JPEG, HEIC, AVIF, TIFF, BMP, GIF, TGA, ICO, DDS, JPEG 2000; reads WebP, JPEG XL, PSD, RAW.
+
+**Privacy**: everything happens on the device. No photo ever leaves your Mac, no account, no analytics, no ads. Automatic updates (one check a day, can be turned off). Light and dark mode, 7 languages.
 
 Aussi en / also in: español, português, Nederlands, Deutsch, italiano.
 
-Gouache ne collecte aucune donnée. · Gouache collects no data.
+Ce dépôt ne contient que le site. · This repository only holds the website.

@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Gouache</title>
+    <title>Atelier</title>
     <link>https://xavier38.github.io/gouache/appcast.xml</link>
     <language>fr</language>
     <item>
-      <title>Gouache 0.2.2</title>
+      <title>Atelier 0.3.0</title>
+      <pubDate>Thu, 05 Nov 2026 14:07:47 +0100</pubDate>
+      <sparkle:version>202611051341</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/gouache/notes/0.3.0.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/gouache/notes/0.3.0.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/gouache/notes/0.3.0.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/gouache/notes/0.3.0.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/gouache/notes/0.3.0.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/gouache/notes/0.3.0.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/gouache/notes/0.3.0.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/gouache/releases/download/v0.3.0/Atelier.zip"
+                 type="application/octet-stream" sparkle:edSignature="FLTSSoK77DZrSrbiHf2umD2UV//F03QG2zoYkp2pvsNoQslNBsoGl1hE0VlTXKUKUK9JJEEHzJXAjEkFCAapDw==" length="4953680"/>
+    </item>
+    <item>
+      <title>Atelier 0.2.2</title>
       <pubDate>Thu, 05 Nov 2026 11:06:56 +0100</pubDate>
       <sparkle:version>202611051108</sparkle:version>
       <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
@@ -21,7 +37,7 @@
                  type="application/octet-stream" sparkle:edSignature="soxcerxlmrDtdRIYYko3KBLUttiqpjm1oE0byUtAeJ9KpNKHD/yvUzd4e7mcxcS8P9qcm3OMPTuNG+EczqSkAQ==" length="3011907"/>
     </item>
     <item>
-      <title>Gouache 0.2.1</title>
+      <title>Atelier 0.2.1</title>
       <pubDate>Thu, 05 Nov 2026 07:29:16 +0100</pubDate>
       <sparkle:version>202611050728</sparkle:version>
       <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
@@ -37,7 +53,7 @@
                  type="application/octet-stream" sparkle:edSignature="Ba0IeiGRG/vmp1p1jiFkFMaTTA+8I7v7DuJ+duRopDkyXfhzpj2zy6CLdkh9MlZYaj0Bv0/deMlPYn0JsehoDQ==" length="2995806"/>
     </item>
     <item>
-      <title>Gouache 0.2.0</title>
+      <title>Atelier 0.2.0</title>
       <pubDate>Thu, 05 Nov 2026 07:22:09 +0100</pubDate>
       <sparkle:version>202611050719</sparkle:version>
       <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
