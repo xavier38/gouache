@@ -5,6 +5,22 @@
     <link>https://xavier38.github.io/gouache/appcast.xml</link>
     <language>fr</language>
     <item>
+      <title>Atelier 0.3.2</title>
+      <pubDate>Thu, 05 Nov 2026 18:42:06 +0100</pubDate>
+      <sparkle:version>202611051838</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink xml:lang="fr">https://xavier38.github.io/gouache/notes/0.3.2.fr.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://xavier38.github.io/gouache/notes/0.3.2.en.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="es">https://xavier38.github.io/gouache/notes/0.3.2.es.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="pt">https://xavier38.github.io/gouache/notes/0.3.2.pt.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="nl">https://xavier38.github.io/gouache/notes/0.3.2.nl.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="de">https://xavier38.github.io/gouache/notes/0.3.2.de.html</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink xml:lang="it">https://xavier38.github.io/gouache/notes/0.3.2.it.html</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/xavier38/gouache/releases/download/v0.3.2/Atelier.zip"
+                 type="application/octet-stream" sparkle:edSignature="4Dd4i3qnkVGM0bef/3mxd7EsvRVnVMCvMHBSNt/Dh8DlqjcUxHmWJHlgUX6Zg98CtVaSZRqTn4x5gWprB70xDQ==" length="31402777"/>
+    </item>
+    <item>
       <title>Atelier 0.3.1</title>
       <pubDate>Thu, 05 Nov 2026 16:12:45 +0100</pubDate>
       <sparkle:version>202611051607</sparkle:version>
