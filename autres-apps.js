@@ -1,4 +1,4 @@
-/* « Mes autres applications » : la même section sur les sites de Moka, Canif, Sesame et Gouache.
+/* « Mes autres applications » : la même section sur les sites de Moka, Canif, Sesame et Atelier.
    <section id="autres-apps" data-current="moka"></section> puis <script src="autres-apps.js"></script>.
    La langue suit celle de la page (attribut lang, ou la classe « en » des pages français/anglais) et change avec elle. */
 (function () {

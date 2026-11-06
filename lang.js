@@ -1,4 +1,4 @@
-// Langues du site de Gouache (comme ceux de Moka et Canif) : chaque texte existe en 7 versions,
+// Langues du site d’Atelier (comme ceux de Moka et Canif) : chaque texte existe en 7 versions,
 // marquées class="lang-fr", "lang-en", "lang-es", "lang-pt", "lang-nl", "lang-de", "lang-it".
 // Le choix est gardé dans le navigateur ; au premier passage, on prend la langue du navigateur.
 (function () {
